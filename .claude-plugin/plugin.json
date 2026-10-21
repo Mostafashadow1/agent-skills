@@ -1,0 +1,8 @@
+{
+  "name": "shadow-coding-libs",
+  "description": "Skills that teach Claude when and how to use tonely (UI sounds), compressly (image compression before upload), accessly (React permissions/RBAC) and react-loadly (loaders and skeletons).",
+  "version": "1.0.0",
+  "author": { "name": "Mostafa Mohamed Abdalla", "url": "https://shadow-coding.com" },
+  "homepage": "https://github.com/Mostafashadow1/agent-skills",
+  "license": "MIT"
+}

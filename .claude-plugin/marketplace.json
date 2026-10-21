@@ -1,0 +1,11 @@
+{
+  "name": "shadow-coding",
+  "owner": { "name": "Mostafa Mohamed Abdalla", "url": "https://shadow-coding.com" },
+  "plugins": [
+    {
+      "name": "shadow-coding-libs",
+      "source": "./",
+      "description": "When and how to use tonely, compressly, accessly and react-loadly in React, Next.js and web projects."
+    }
+  ]
+}
