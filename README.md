@@ -9,6 +9,16 @@ Rules and skills that help AI coding agents pick and use these npm packages corr
 | [accessly](https://www.npmjs.com/package/accessly) | Permissions, RBAC and feature flags in React / Next.js UIs |
 | [react-loadly](https://www.npmjs.com/package/react-loadly) | Accessible loaders, spinners and skeleton screens |
 
+## Any agent (skills CLI)
+
+Install all four skills into Claude Code, Cursor, Copilot, Codex and other agents with the [skills](https://skills.sh) CLI:
+
+```
+npx skills add Mostafashadow1/agent-skills
+```
+
+Or pick one: `npx skills add Mostafashadow1/agent-skills --skill react-loadly-loading-states`.
+
 ## Claude Code
 
 As a plugin:
